@@ -912,7 +912,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Devshouse'24 : 36 hrs Hackathon
+                                  Devshouse'24 : 36 hrs Hackathon<br></br>
                                   Top 60 finalist
                                 </h2>
                                 <h3
@@ -965,7 +965,7 @@ export default function CertificatePage() {
                                   className="cert-body-title"
                                   style={{ fontWeight: 700, color: "#fbd9ad" }}
                                 >
-                                  Tech4Tomorrow : 12 hrs Hackathon
+                                  Tech4Tomorrow : 12 hrs Hackathon<br></br>
                                   Top 40 finalist
                                 </h2>
                                 <h3
